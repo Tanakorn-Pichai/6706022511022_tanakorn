@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Printer offline on 3rd floor office",
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2026-10-22T01:49:59.898Z"
+  },
+  {
+    "id": 2,
+    "title": "VPN connection dropping for remote staff",
+    "priority": "medium",
+    "status": "doing",
+    "createdAt": "2026-10-22T03:49:59.898Z"
+  },
+  {
+    "id": 3,
+    "title": "Request HDMI cable for conference room B",
+    "priority": "low",
+    "status": "done",
+    "createdAt": "2026-10-21T22:49:59.898Z"
+  },
+  {
+    "id": 4,
+    "title": "Software license renewal for Adobe Creative Cloud",
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2026-10-22T04:49:59.898Z"
+  },
+  {
+    "id": 5,
+    "title": "Email spam filter misclassifying client emails",
+    "priority": "high",
+    "status": "doing",
+    "createdAt": "2026-10-22T05:49:59.898Z"
+  },
+  {
+    "id": 6,
+    "title": "New monitor setup for marketing workstation",
+    "priority": "low",
+    "status": "done",
+    "createdAt": "2026-10-21T18:49:59.898Z"
+  }
+]

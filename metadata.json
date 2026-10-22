@@ -1,0 +1,6 @@
+{
+  "name": "Simple Service Desk",
+  "description": "A single-page application to view, create, update, and filter support tickets with real-time status management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
